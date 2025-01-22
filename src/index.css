@@ -29,4 +29,12 @@
   flex : 1;
 }
 
+#loading{
+  height: 65vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   width: 100%;
+}
+
 
